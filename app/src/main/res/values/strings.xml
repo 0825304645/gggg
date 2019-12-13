@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyAppdata</string>
+    <string name="loading">กำลังโหลด...</string>
+</resources>
